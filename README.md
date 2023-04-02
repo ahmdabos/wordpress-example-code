@@ -1,4 +1,4 @@
-<small>I have written this document on 2018 as requested by IT department for on of our clients, to provide them a technical document for creating a scalable, secure, and highly available WordPress infrastructure on Azure to  ensure the smooth operation of thier WordPress website and provide a great user experience for the website visitors.
+<small>I have written this document on 2018 as requested by IT department for one  of our clients, to provide them a technical document for creating a scalable, secure, and highly available WordPress infrastructure on Azure to  ensure the smooth operation of thier WordPress website and provide a great user experience for the website visitors.
 </small>
 
 <h2>Title: WordPress Infrastructure on Azure
